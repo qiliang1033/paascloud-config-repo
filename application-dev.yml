@@ -136,4 +136,4 @@ paascloud:
       pcPath: /data/file/qrCode/alipay
       qiniuPath: alipay/QRCode/
   zk:
-    zkAddressList: 192.168.229.129:2181
+    zkAddressList: 192.168.229.129:2182
